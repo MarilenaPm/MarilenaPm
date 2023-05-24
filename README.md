@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **How to be a Full Stack Developer**  
   
-- 👨‍💻 All of my projects are available at [marilenapm.github.io](marilenapm.github.io)  
+- 👨‍💻 All of my projects are available at [marilenapm.github.io](https://marilenapm.github.io/)  
   
 - 💬 Ask me about **Bootstrap**  
   
